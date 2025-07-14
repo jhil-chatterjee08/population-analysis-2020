@@ -32,9 +32,7 @@ This project analyzes the population data of countries using the World Bank data
 
 ---
 
-## Project Structure
-
-``` population-analysis-2022/ ├── dataset/ │ └── population_data.csv ├── images/ │ ├── bar_chart.png │ └── histogram.png ├── population_analysis.py └── README.md ```
+<pre> ## 📂 Project Structure ```text population-analysis-2022/ ├── dataset/ │ └── population_data.csv ├── images/ │ ├── bar_chart.png │ └── histogram.png ├── population_analysis.py └── README.md ``` </pre>
 
 ---
 
