@@ -34,11 +34,7 @@ This project analyzes the population data of countries using the World Bank data
 
 ## Project Structure
 
-population-analysis-2022/
-├──population-dataset/
-│   └── API_SP.POP.TOTL_DS2_en_csv_v2_127006.csv
-├── population_analysis.py
-└── README.md
+``` population-analysis-2022/ ├── dataset/ │ └── population_data.csv ├── images/ │ ├── bar_chart.png │ └── histogram.png ├── population_analysis.py └── README.md ```
 
 ---
 
