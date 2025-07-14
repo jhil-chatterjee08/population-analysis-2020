@@ -74,10 +74,10 @@ The script will generate:
 ## 📈 Output Charts
 
 ### 🔹 Top 10 Countries by Population (2022)
-![Top 10 Bar Chart](C:\Users\USER\Pictures\population-analysis-2020/bar_chart.png)
+![Top 10 Bar Chart](images/bar_chart.png)
 
 ### 🔹 Population Distribution Histogram (2022)
-![Population Histogram](C:\Users\USER\Pictures\population-analysis-2020/histogram.png)
+![Population Histogram](images/histogram.png)
 
 
 ## Author
